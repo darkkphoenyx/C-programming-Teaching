@@ -1,0 +1,6 @@
+1. Variable should always start from characters.
+2. spaces are not allowed.  however, underscores, hyphen, camel cases are allowed.
+   note: camel is the best practice
+3. Variable cannot start from number .
+4. Max length of variable is 31 characters
+5. Keywords cannot be variable name

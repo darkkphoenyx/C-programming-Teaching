@@ -1,0 +1,33 @@
+1. C syntax
+	A computer program is a list of "instruction" to be "executed" by a computer. In a programming language, these programming instructions are called statements.
+eg. printf("Hello world!");
+
+2. C output
+
+3. C comments
+4. C variables
+	--Format specifier
+	--Change Values
+	--Multiple variables
+	--Variable names--rules
+5. Data types
+	--characters
+	--numbers --> int && float
+	--Decimal precision
+	--Memory size of each data types
+	--Type conversion	
+		-->Type casting (Explicit)
+		-->Implicit (Automatic)
+
+6. C constants
+7. C operators
+
+
+Primitive
+	1. Integer --- 4 byte
+	2. Float --- 4 byte
+	3. Character --- 1byte (per byte)
+Others
+long int
+long long
+double 
