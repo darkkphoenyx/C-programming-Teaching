@@ -1,0 +1,9 @@
+
+hierarchy       associativity
+()              paranthesis 
+*, %, /         sleft to right 
++, -            left to right
+
+
+
+1+3*5/6
